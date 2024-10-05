@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#":{
+      "item": "holduvar:aluminium_bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "holduvar:aluminium_bronze_block"
+  }
+}

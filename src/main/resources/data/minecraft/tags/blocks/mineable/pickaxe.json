@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "holduvar:aluminum_block",
+    "holduvar:raw_aluminum_block",
+    "holduvar:aluminium_bronze_block"
+  ]
+}

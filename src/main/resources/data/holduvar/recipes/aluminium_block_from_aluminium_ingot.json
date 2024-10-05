@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "holduvar:aluminium_block"
+    }
+  ],
+  "result": {
+    "item": "holduvar:aluminium_ingot",
+    "count": 9
+  }
+}

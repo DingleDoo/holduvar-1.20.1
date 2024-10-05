@@ -1,0 +1,22 @@
+{
+  "item.holduvar.thorns": "Thorns",
+  "item.holduvar.onion": "Onion",
+  "item.holduvar.red_onion": "Red Onion",
+  "item.holduvar.raw_aluminium": "Raw Aluminium",
+  "item.holduvar.aluminium_ingot": "Aluminium Ingot",
+  "item.holduvar.aluminium_bronze_ingot": "Aluminium Bronze Ingot",
+
+  "block.holduvar.aluminium_block": "Block of Aluminium",
+  "block.holduvar.aluminium_ore": "Aluminium Ore",
+  "block.holduvar.raw_aluminium_block": "Block of Raw Aluminium",
+  "block.holduvar.aluminium_bronze_block": "Block of Aluminium Bronze",
+
+  "block.holduvar.ironwood_log": "Ironwood Log",
+  "block.holduvar.ironwood_wood": "Ironwood Wood",
+  "block.holduvar.stripped_ironwood_log": "Stripped Ironwood Log",
+  "block.holduvar.stripped_ironwood_wood": "Stripped Ironwood Wood",
+
+
+  "itemgroup.hold_ing": "Holduvar Ingredients",
+  "itemgroup.hold_met": "Holduvar Meltallurgy"
+}

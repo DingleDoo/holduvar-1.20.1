@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "holduvar",
+	"version": "${version}",
+	"name": "Holduvar",
+	"description": "The world of Holduvar is a fantasy world built for this modpack.",
+	"authors": [
+		"Your Mother"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "MIT",
+	"icon": "assets/holduvar/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"net.nico.holduvar.Holduvar"
+		],
+		"client": [
+			"net.nico.holduvar.HolduvarClient"
+		],
+		"fabric-datagen": [
+			"net.nico.holduvar.HolduvarDataGenerator"
+		]
+	},
+	"mixins": [
+		"holduvar.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.5",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
