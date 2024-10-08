@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "holduvar:block/stripped_ironwood_log",
+    "side": "holduvar:block/stripped_ironwood_log"
+  }
+}
