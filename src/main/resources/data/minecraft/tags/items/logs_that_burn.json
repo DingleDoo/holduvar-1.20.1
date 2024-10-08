@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "holduvar:ironwood_log",
+    "holduvar:ironwood_wood",
+    "holduvar:stripped_ironwood_log",
+    "holduvar:stripped_ironwood_wood"
+  ]
+}

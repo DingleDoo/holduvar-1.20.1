@@ -20,6 +20,14 @@ public class ModItemGroups {
 
                         entries.add(ModItems.ONION);
                         entries.add(ModItems.RED_ONION);
+                        entries.add(ModItems.WHITE_GRAPE);
+                        entries.add(ModItems.RED_GRAPE);
+                        entries.add(ModItems.RICE);
+                        entries.add(ModItems.GARLIC);
+                        entries.add(ModItems.GINGER);
+                        entries.add(ModItems.MINT);
+                        entries.add(ModItems.HOPS);
+                        entries.add(ModItems.ORANGE);
 
                         entries.add(ModBlocks.IRONWOOD_LOG);
                         entries.add(ModBlocks.IRONWOOD_WOOD);

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "holduvar:raw_aluminium_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "holduvar:raw_aluminium"
+  }
+}
